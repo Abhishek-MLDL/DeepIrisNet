@@ -4,10 +4,11 @@ Abhishek Gangwar, Akanksha Joshi
 ## Overview
 
 
-This page contains the download links for the source code for computing the VGG-Face CNN descriptor, described in [1]. 
+This page contains the download links for the basic models for computing the DeepIrisNet CNN descriptor, described in [1].. 
 
+The models are trained using Torch deep learning framework
 
-
+For details of various exepriments and other details please refer the paper [1]
 ***
 
 ## Relevant Publications
